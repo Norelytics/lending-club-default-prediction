@@ -38,7 +38,7 @@ Five models were trained and tracked with MLflow:
 - **Threshold tuning unlocked XGBoost's potential**: at threshold=0.20, Recall jumped to 0.70 with the best F1-Score (0.43)
 
 ### Final Recommendation
-**XGBoost (Optuna-tuned) with threshold = 0.20** is the recommended model — it correctly identifies 70% of defaulters while maintaining the best overall precision-recall balance.
+**XGBoost (Optuna-tuned) with threshold = 0.20** is the recommended model,  it correctly identifies 70% of defaulters while maintaining the best overall precision-recall balance.
 
 ## Project Structure
 ```
@@ -47,4 +47,4 @@ Five models were trained and tracked with MLflow:
 ├── lending_club_dashboard.jpeg — Power BI dashboard
 ├── mlflow_comparison.png — MLflow experiment comparison
 └── README.md
-```
+
