@@ -30,7 +30,7 @@ Five models were trained and tracked with MLflow:
 - XGBoost (baseline + Optuna)
 
 ### Model Comparison
-![MLflow Comparison](mlflow_comparison.png)
+![MLflow Comparison](https://raw.githubusercontent.com/Norelytics/lending-club-default-prediction/main/mlflow_comparison.png)
 
 ### ML Key Findings
 - Logistic Regression had the best baseline Recall (0.63) and ROC-AUC (0.71)
